@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blobdata", "blobdata\blobdata.csproj", "{3583BB34-90E9-4712-BFFA-EC385189B240}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3583BB34-90E9-4712-BFFA-EC385189B240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3583BB34-90E9-4712-BFFA-EC385189B240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3583BB34-90E9-4712-BFFA-EC385189B240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3583BB34-90E9-4712-BFFA-EC385189B240}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7AF8683-CD90-451B-B681-D6FC74934318}
+	EndGlobalSection
+EndGlobal
